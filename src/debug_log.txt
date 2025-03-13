@@ -1,0 +1,3 @@
+{"user_id":1,"cashback":50}
+{"user_id":1,"cashback":50}
+{"user_id":1,"cashback":50}
